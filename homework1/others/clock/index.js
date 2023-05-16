@@ -20,4 +20,4 @@ setInterval(()=>{
         seconds = "0" + seconds
     }
     time.textContent = hours + ":" + minutes +":" + seconds  + day_night
-})
+});
